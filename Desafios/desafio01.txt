@@ -6,4 +6,4 @@ você terá 3 variáveis. Sendo elas:
 2 - Gasto médio de combustivel do carro por KM
 3 - Distância em KM da viagem;
 
-Imprima no console o valor que será gasto de combustível para realizar esta viagem
+Imprima no console o valor que será gasto para realizar esta viagem
