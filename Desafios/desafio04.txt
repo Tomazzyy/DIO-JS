@@ -9,18 +9,15 @@ altura (em metros, exemplo: 1.75)
 
 Calcule o IMC usando a fórmula:
 
-ini
-Copiar
-Editar
 IMC = peso / (altura * altura)
 Usando if, else if e else, classifique o IMC de acordo com a tabela:
 
-Faixa de IMC	Classificação
-Abaixo de 18.5	Abaixo do peso
+Faixa de IMC	    Classificação
+Abaixo de 18.5	    Abaixo do peso
 Entre 18.5 e 24.9	Peso normal
-Entre 25 e 29.9	Sobrepeso
-Entre 30 e 39.9	Obesidade
-Acima de 40	Obesidade grave
+Entre 25 e 29.9	    Sobrepeso
+Entre 30 e 39.9	    Obesidade
+Acima de 40	        Obesidade grave
 Mostre no console:
 
 O valor do IMC (com no máximo 2 casas decimais)

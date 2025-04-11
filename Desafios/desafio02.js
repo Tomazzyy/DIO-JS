@@ -6,7 +6,7 @@ if (idade < 12){
 else if (idade < 18){
     console.log("Adolescente");
 }
-if (idade < 69){
+if (idade < 60){
     console.log("Adulto");
 }
 else {
