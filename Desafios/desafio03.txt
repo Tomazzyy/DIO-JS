@@ -6,4 +6,4 @@ classificação:
 
 - Média menor que 5,  reprovação;
 - Média entre 5 e 7, recuperação;
-- Média acima de 7, passou de semestre; 
+- Média acima de 7, passou de semestre;
