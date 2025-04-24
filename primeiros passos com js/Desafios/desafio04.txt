@@ -1,0 +1,25 @@
+Crie um programa em JavaScript que calcula o IMC (Índice de Massa Corporal) de uma pessoa e exibe a classificação com base no valor calculado.
+
+🧾 Regras:
+Crie duas variáveis:
+
+peso (em kg, exemplo: 70)
+
+altura (em metros, exemplo: 1.75)
+
+Calcule o IMC usando a fórmula:
+
+IMC = peso / (altura * altura)
+Usando if, else if e else, classifique o IMC de acordo com a tabela:
+
+Faixa de IMC	    Classificação
+Abaixo de 18.5	    Abaixo do peso
+Entre 18.5 e 24.9	Peso normal
+Entre 25 e 29.9	    Sobrepeso
+Entre 30 e 39.9	    Obesidade
+Acima de 40	        Obesidade grave
+Mostre no console:
+
+O valor do IMC (com no máximo 2 casas decimais)
+
+A classificação correspondente
