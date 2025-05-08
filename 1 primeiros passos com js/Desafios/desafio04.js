@@ -1,4 +1,4 @@
-let peso = 900
+let peso = 90
 let altura = 1.75
 
 let imc = peso /(altura * altura)
